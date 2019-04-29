@@ -1,0 +1,14 @@
+
+/.gradle/
+/.idea/
+/api/build/
+/entity/build/
+/gradle/
+/manager/build/
+/out/
+/seller/build/
+/swagger/build/
+/util/build/
+/gradlew
+/gradlew.bat
+/settings.gradle
